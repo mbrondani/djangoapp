@@ -1,0 +1,2 @@
+# dajangoapp
+openshift
